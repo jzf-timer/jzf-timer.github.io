@@ -2,7 +2,7 @@
 title: PM第一周学习笔记
 date:  2020-03-25 18:50:10 +0800
 category: PM
-tags: Learning experience
+tags: Learning-experience
 excerpt: 以用户为中心的设计，同理心，与用户直接互动，出去研究，与真实用户研究，观察真正的使用者，不可单靠评估，研究和理解使用情景脉络
 ---
 
