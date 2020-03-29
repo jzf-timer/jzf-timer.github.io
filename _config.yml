@@ -18,9 +18,9 @@ title: JZFTIMER
 name: JZFTIMER
 description: 。。。。。。。
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/jzf-timer
 rss: true
-
+copyright_time: 2020
 plugins:
   - rouge
   - kramdown
