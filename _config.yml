@@ -44,7 +44,7 @@ show_excerpt: true
 # 取消下面的注解，并填写相应的你要开启的社交链接
 # twitter:
 # weibo:
-github:https://github.com/jzf-timer
+github: https://github.com/jzf-timer
 # 邮件地址前面带上 mailto:
 # email: mailto:xxxxxxx@xxxx.com
 # RSS 订阅
